@@ -1,1 +1,1 @@
-# demo
+php script.php input.csv
